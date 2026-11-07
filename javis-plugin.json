@@ -1,0 +1,1 @@
+{"name":"clock","description":"时间查询插件","version":"1.0.0","methods":[{"name":"get_time","description":"获取当前时间","capability":"time","action":"now","parameters":[]},{"name":"get_date","description":"获取今天日期","capability":"time","action":"date","parameters":[]}]}
